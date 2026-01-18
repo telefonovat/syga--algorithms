@@ -1,4 +1,4 @@
 {
-  "edgeOptions": "number",
-  "vertexOptions": "number"
+  "edgeOptionInput": "number",
+  "vertexOptionInput": "number"
 }
