@@ -1,5 +1,7 @@
-# DFS Practice
+# Dijkstra Practice
 
-You start from vertex 'A'. When choosing neighbours, choose the one that is alphabetically first.Identify tree-edges and back-edges.
+Start from vertex 'a'. 
+Fill in all the vertices' distances from 'a' when the algorithm terminates.
 
-When you are done, press next to compare it to our solution.
+If a vertex is unreachable, fill in -1.
+
